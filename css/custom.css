@@ -290,7 +290,8 @@ ul li:last-child{
 }
 .buy-btn:hover{
 	border-color: 1px solid #fff!important;
-	background-color: #3f51b5;
+	background-color: #66b2b2;
+	opacity: 0.7;
 }
 a{
 	text-decoration: none!important;
